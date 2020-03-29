@@ -23,6 +23,7 @@ projects:
   #   - stars
   limit: 3
   exclude:
+    archived: false
     forks: true
     projects:
     # - repo-name
@@ -33,8 +34,16 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # medium: @your_username
+  # hackerrank: your_username
+  # instagram: your_username
+  # keybase: your_username
+  # mastodon: your_username
+  # medium: your_username
+  # telegram: your_username
   # twitter: your_username
+  # unsplash: your_username
+  # vk: your_username
+  # website: http://your_website_url
   # youtube: your_username
 
 topics:
